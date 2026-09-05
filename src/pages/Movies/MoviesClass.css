@@ -1,0 +1,11 @@
+.moviesClass{
+     display: grid;
+    grid-template-rows: 1fr 3fr;
+    height: 100%;
+    
+}
+.test1{
+
+    overflow: auto;
+    min-width: 0;
+}

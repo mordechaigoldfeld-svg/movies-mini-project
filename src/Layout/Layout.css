@@ -1,0 +1,13 @@
+.layout_grid {
+    background-color: chartreuse;
+
+    display: grid;
+    grid-template-rows: 1fr 8fr 1fr;
+    height: 100vh;
+}
+
+.layout_main{
+
+    min-height: 0;
+    overflow: auto;
+}

@@ -1,0 +1,26 @@
+.Header{
+
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    
+}
+
+.links{
+
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    align-items: center;
+}
+
+.Link{
+    
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    
+    
+}
